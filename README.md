@@ -1,2 +1,2 @@
 # searchAround.ai
-MVP Loading.....
+MVP Loading..... ETA: 28 June 2024
